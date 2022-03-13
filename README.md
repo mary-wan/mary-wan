@@ -34,11 +34,12 @@ I am a fullstack software engineer
 <br>
 
 ## Expertise
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Flask-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/django%20-%23232F3E?logo=django&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/Javascript%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="flask" src="https://img.shields.io/badge/Flask-3DDC84?logo=flask&logoColor=white&style=for-the-badge" />
+<img align="left" alt="django" src="https://img.shields.io/badge/django%20-%23232F3E?logo=django&logoColor=white&style=for-the-badge" />
+<img align="left" alt="angular" src="https://img.shields.io/badge/Angular-%23316192.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" alt="Jabascript" src="https://img.shields.io/badge/Javascript%20-%236DB33F.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <br>
 <br>
 
