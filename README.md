@@ -50,7 +50,7 @@ I am a fullstack software engineer
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary-wan&hide=html&layout=compact&show_icons=true&theme=tokyonight" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mary-wan&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=ture&hide_title=true" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mary-wan&count_private=true&show_icons=true&theme=radical&hide_rank=false" /></td>
 </table>
 </center>
 
