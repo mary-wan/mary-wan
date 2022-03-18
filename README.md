@@ -45,3 +45,7 @@ I am a fullstack software engineer
 
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mary-wan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](#)
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mary-wan)
