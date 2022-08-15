@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👩🏾‍💻 About Me
 I am a fullstack software engineer
-- 🔭 Working on multiple frontend and backend project using Angular and Python(Django and Flask)
+- 🔭 Working on multiple frontend and backend project using Angular, Java(Springboot) and Python(Django and Flask)
 - 🌱 Learning design patterns in depth
 
 <br>
